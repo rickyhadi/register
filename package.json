@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.2"
+    "appconfig": "git+https://github.com/rickyhadi/appconfig.git",
+    "express": "^4.16.2",
+    "helper": "git+https://github.com/rickyhadi/helper.git",
+    "renderer": "git+https://github.com/rickyhadi/renderer.git"
   }
 }
